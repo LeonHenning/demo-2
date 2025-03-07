@@ -17,3 +17,4 @@ mapclassify
 matplotlib
 folium
 selenium
+markdownify
